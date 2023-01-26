@@ -13,8 +13,6 @@ You’ll make the following updates to the provided Python file for this assignm
 
 4. Test the PyChain Ledger by Storing Records.
 
----
-
 ## Instructions
 Open the [`pychain.py` file](Starter_Code/pychain.py) included in the Homework's `Starter_code` folder. You’ll use this file to complete the steps for this assignment. Notice that the `PyChain` ledger that you built throughout this unit already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
 
@@ -79,8 +77,6 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 4. Verify the block contents and hashes in the Streamlit dropdown menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. Include the screenshot in the `README.md` file for your GitHub repository.
 
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
-
----
 
 ## Screenshot:
 ![Blockchain Screenshot](Images/Blockchain_Screenshot.png)
